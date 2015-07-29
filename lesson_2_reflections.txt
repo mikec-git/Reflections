@@ -1,0 +1,2 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is basically the "stage" that comes after the working directory, in that it is the transition stage to making a commit. You first start with some files on the hard drive in a folder you created, which is considered the "working directory". From there, you add some or all of the files in the working directory to the staging area to prepare for the production of the commit.
