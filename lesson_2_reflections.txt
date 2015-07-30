@@ -7,3 +7,5 @@ You can easily check the diff between the working directory and the staging area
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches would be definitely helpful in times of making a "branch" or variation to your project. For instance, if you had an app that had one main functionality, but you wanted to introduce another function, you might use a branch to avoid changing the "master" or main branch. Branches would help not only keeping your history organized by allowing for seperate variation projects, but also by keeping one main variation unchanged throughout the project.
 
+How do the diagrams help you visualize the branch structure?
+The diagrams clearly show the flow of commits that come off from branches as they are created. It also shows how creating a commit from an existing, previous commit creates a new commit that is branch-less.
