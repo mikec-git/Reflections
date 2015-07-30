@@ -9,3 +9,9 @@ Branches would be definitely helpful in times of making a "branch" or variation 
 
 How do the diagrams help you visualize the branch structure?
 The diagrams clearly show the flow of commits that come off from branches as they are created. It also shows how creating a commit from an existing, previous commit creates a new commit that is branch-less.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of merging two branches together is the final result of the components of both branaches. This means, that any new files introduced after the initial branch from either the master or the branch would be implemented in the final version. The diagram shows how two branches may possibly combine later in a merge. It shows how each independent commit comes together to form a final version of the code.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually? 
+Git's automatic merging has its pros of autonomously determining where the merged code should be placed. The downside is that sometimes the merge may happen in a way you did not intend. Doing the merged manually allows for the user to completely be in control of how the merge is commenced. This way, there will be a much lower chance of error later on.
