@@ -12,3 +12,6 @@ Having a copy of the last known state of the remote stored locally allows for th
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Without Git/GitHub, I would be using either a Google Docs, Skype, or simply a social media medium like Facebook. Now, using these programs/websites would allow communication to flow instantaneously and have a conversation-like situation, whereas Git or GitHub requires refreshing pages to update information. On the other hand, using those programs/websites greatly restricts the ability to exactly pinpoint the source of problems, and can lead to greater confusion because every user will have their own individual files; without programs to be able to clone, merge, push, or pull, collaborating can become very tedious and in most cases, inaccurate. 
+
+When would you want to make changes in a seperate branch rather than directly in master? What benefits does each approach have?
+Making changes in a serperate branch would be useful when making a significant change in how the master branch file would function. This allows for the implementation of a new "feature" while leaving the original copy unaltered. 
